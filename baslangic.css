@@ -1,0 +1,32 @@
+#game {
+    font-size: 10em;
+    font: bolder;
+    color: aqua;
+    text-align: center;
+    font-style: normal;
+    display: block;
+    align-items: center;
+    
+
+}
+.allone {
+    padding: 10px 15px;
+    font-size: 20px;
+    margin: 5px 5px;
+    border-radius: 10px;
+    background-color: beige;
+    color: darkgreen;
+   cursor: pointer;
+
+
+}
+h1{
+    font-size: 2em;
+    font-style: italic;
+    font-display: block;
+    text-shadow: 2em;
+    text-align: center;
+}
+.allone:hover{
+    background-color: greenyellow;
+}
